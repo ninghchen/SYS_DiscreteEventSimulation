@@ -1,7 +1,7 @@
 """
 Bygg & Bo — Monte Carlo Cost Simulation Dashboard
 Run: pip install dash plotly numpy scipy pandas
-Then: python bygg_bo_dashboard.py
+Then: python Project1_dashboard.py
 """
 
 import numpy as np
